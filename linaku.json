@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "LinaXSec",
+        "slogan":"Amankan Sebelum Di Serang",
+        "versi":"0.1",
+        "tribute":"<p> Aplikasi Ini Lutfi Anam Rilis Untuk Merayakan/Mensyukuri Umur Saya Yang Bertambah 1 Tahun, Yaitu Menjadi 17 Tahun ( Semoga Lutfi Anam Bisa Menjadi Orang Yang Lebih Baik Lagi Dan Berfikir Lebih Dewasa .... Aminn .... )</p>",
+        "rilis": "Jum'at 10 April 2020",
+        "developer": "LinaX",
+        "coder":"Lutfi Anam",
+        "email":"lutfianamart@gmail.com",
+        "alamat":"Temanggung",
+        "web":"http://linaxsec.blogspot.com/",
+        "fanspage":"LinaX",
+         "notif": {
+             "show":"ya",
+             "color":"info",
+             "sub":"Tentang Aplikasi Dan Perjanjian Penggunaan",
+             "judul":"From : LinaX<br>To : Pengguna LinaXSec",
+             "pesan":"Terminakasih Telah Menggunakan Aplikasi LinaXSec:') Keep Save Your System<br><p>[ LinaXSec V 0.1 ]<br>Alhamdulilah Akhirnya Lutfi Anam Telah Merilis Aplikasi Open Source Pertamanya Yaitu LinaXSec Pada Hari Ini Yaitu Pada Tanggal 10 April 2020 Semoga Aplikasi Yang Lutfi Anam Buat Ini Bisa Bermanfaat Untuk Para Developer-Developer Aplikasi Web. Aplikasi Yang Lutfi Anam Buat Ini Bisa Mendeteksi Serangan Sql Injection ( v 0.1 ) Dan Menyimpan Log Serangan Di Database Aplikasi. Lutfi Anam Merilis Aplikasi LinaXSec Ini Karena Banyaknya Para Defacer / Cracker Yang Sering Merusak Aplikasi Web Tanpa Tanggung Jawab Sedikitpun.<br>Nama : LinaXSec - Crack Detect<br>Rilis : Jum'at 10 April 2020<br>Developer : LinaX<br>Coder : Lutfi Anam<br>PERJANJIAN PENGGUNAAN<br>Tribut : Aplikasi Ini Lutfi Anam Rilis Untuk Merayakan/Mensyukuri Umur Saya Yang Bertambah 1 Tahun, Yaitu Menjadi 17 Tahun ( Semoga Lutfi Anam Bisa Menjadi Orang Yang Lebih Baik Lagi Dan Berfikir Lebih Dewasa .... Aminn .... )<br>Dengan menggunakan LinaXSec, maka anda setuju untuk :<br>1. Tidak mengubah Nama Aplikasi LinaXSec menjadi nama aplikasi lain<br>2. Tidak mengubah footer yang menunjukkan alamat website LinaXSec<br>3. Tidak menjual Aplikasi LinaXSec. Tetapi anda diperbolehkan untuk mengambil keuntungan dari jasa proses instalasi, konsultasi dan lain sebagainya yang berkaitan dengan LinaXSec<br>4. Tidak menhapus tribute dan Perjanjian Penggunaan<br>Semoga Aplikasi LinaXSec dapat bermanfaat untuk kita semua.<br></p>"
+         },
+        "fitur": [
+            "proteksi sql injection",
+            "log-attacker"
+        ],
+        "pengumuman": {
+            "singkat": "<marquee>Welcome To LinaXSec Dan Terimakasih Telah Menggunakan Aplikasi Lutfi Anam [ HARGAI PEMBUAT DENGAN TIDAK MERECODE DAN MENGHAPUS COPYRIGHT ] Jangan Lupa Baca Lisensi di ( lxs-doc/lisensi.txt )</marquee>",
+            "banyak": "Di sini pengumuman yang banyak ya mas:')"
+        }
+    }
+]
