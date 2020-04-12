@@ -1,0 +1,8 @@
+Assalamualaikum wr.wb
+
+ Untuk melakukan instalasi aplikasi LinaXSec,silahkan ikuti langkah2 ini :
+1. Edit username,password, dan nama database di file "config.php" ( folder root )
+2. Import sql dalam file "linaxlutfi.sql" ( folder root )
+3. Selesai
+
+Jangan rubah code agar tidak terjadi error

@@ -1,0 +1,15 @@
+==== Fitur V0.1 ====
+√ Sql Injection Protected
+√ Log Attacker
+√ Tracking Attacker
+√ Delete Ip
+√ Responsive Dsign
+√ Rename User
+√ Add Admin
+√ Delete Admin
+√ Fast loading
+√ Admin management
+√ Maintenance mode
+√ And more
+
+© Jum'at 10 April 2020

@@ -1,0 +1,13 @@
+Untuk Login :
+
+Administrator 1
+Username = admin
+Password = admin
+
+Administrator 2
+Username = lutfianam
+Password = lutfianam
+
+Administrator 3
+Username = linaililmuna
+Password = linaililmuna
