@@ -25,6 +25,7 @@ Cara Kerja aplikasi => <br>
 ketika attacker menginputkan code sql, contohnya "union,or" dan lain-lain baik itu pada parameter ataupun form maka akan langsung di redirect ke page attacker. <br>
 
 Ingin Donasi ?<br>
+http://trakteer.id/lutfianam<br>
 Paypal : lutfianamart@gmail.com <br>
 Bank BRI : silahkan chat Lutfi Anam <br>
 Berdonasilah Agar Lutfi Anam Bisa Lebih Bersemangat Untuk Mengembangkan Dan Menambahkan Fitur-Fitur Terbaru:V <br>
