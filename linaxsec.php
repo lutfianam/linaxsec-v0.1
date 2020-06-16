@@ -12,7 +12,7 @@
 #1. Tidak mengubah Nama Aplikasi LinaXSec menjadi nama aplikasi lain
 #2. Tidak mengubah footer yang menunjukkan alamat website LinaXSec
 #3. Tidak menjual Aplikasi LinaXSec. Tetapi anda diperbolehkan untuk mengambil keuntungan dari jasa proses instalasi, konsultasi dan lain sebagainya yang berkaitan dengan LinaXSec
-#4. Tidak menhapus tribute dan Perjanjian Penggunaan
+#4. Tidak menghapus tribute dan Perjanjian Penggunaan
 #Semoga Aplikasi LinaXSec dapat bermanfaat untuk kita semua.
 ################################
 */
